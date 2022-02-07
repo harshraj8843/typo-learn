@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Github Repo Size](https://img.shields.io/github/repo-size/novicexp/typo-learn)](https://github.com/novicexp/typo-learn)
+[![Github Repo Size](https://img.shields.io/github/repo-size/harshraj8843/typo-learn)](https://github.com/harshraj8843/typo-learn)
 
-![GitHub Code Size](https://img.shields.io/github/languages/code-size/novicexp/typo-learn) ![GitHub Line of Code](https://img.shields.io/tokei/lines/github/novicexp/typo-learn)
+![GitHub Code Size](https://img.shields.io/github/languages/code-size/harshraj8843/typo-learn) ![GitHub Line of Code](https://img.shields.io/tokei/lines/github/harshraj8843/typo-learn)
 
 </div>
 
@@ -26,7 +26,7 @@ A simple typing learning software in `c` language for begineers :)
 
 - clone project
   ```
-  git clone https://github.com/novicexp/typo-learn
+  git clone https://github.com/harshraj8843/typo-learn
   ```
   ```
   cd typo-learn/
